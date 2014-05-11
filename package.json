@@ -1,0 +1,20 @@
+{
+  "name": "oj-table-of-contents",
+  "version": "0.0.1",
+  "main": "oj.tableOfContents.js",
+  "description": "Table of contents plugin for OJ",
+  "homepage": "http://ojjs.org",
+  "keywords": [
+    "oj",
+    "plugin",
+    "table",
+    "contents"
+  ],
+  "author": "Evan Moran <evan@evanmoran.com>",
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ojjs/oj.tableOfContents.git"
+  }
+}

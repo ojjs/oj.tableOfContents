@@ -1,0 +1,25 @@
+{
+  "name": "oj-table-of-contents",
+  "version": "0.0.1",
+  "main": "oj.tableOfContents.js",
+  "homepage": "http://ojjs.org",
+  "authors": [
+    "Evan Moran <evan@evanmoran.com>"
+  ],
+  "description": "Table of contents plugin for OJ",
+  "keywords": [
+    "oj",
+    "plugin",
+    "table",
+    "contents"
+  ],
+  "license": "MIT",
+  "ignore": [
+    ".DS_Store",
+    ".git",
+    ".gitignore",
+    "bower_components",
+    "package.json",
+    "node_modules"
+  ]
+}
